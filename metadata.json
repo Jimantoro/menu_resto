@@ -1,0 +1,6 @@
+{
+  "name": "Resto Kasir - POS Restoran",
+  "description": "Aplikasi Kasir Restoran lengkap dengan manajemen pesanan meja, menu makanan & minuman, keranjang belanja real-time, dan status antrean.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
